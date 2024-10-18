@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Definición del array de tipos de documento -->
+    <string-array name="tipos_documento">
+        <item>Cédula de ciudadanía</item>
+        <item>Tarjeta de identidad</item>
+        <item>Pasaporte</item>
+    </string-array>
+</resources>
